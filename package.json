@@ -1,11 +1,11 @@
 {
   "name": "ejs-loader",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "EJS (Underscore/LoDash Templates) loader for webpack",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/okonet/ejs-loader.git"
+    "url": "https://github.com/valerymercury/ejs-loader.git"
   },
   "keywords": [
     "ejs",
@@ -16,12 +16,12 @@
     "loader",
     "template"
   ],
-  "author": "Andrey Okonetchnikov <andrey@okonet.ru>",
+  "author": "Valery Bugakov <valerybugakov@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/okonet/ejs-loader/issues"
+    "url": "https://github.com/valerymercury/ejs-loader/issues"
   },
-  "homepage": "https://github.com/okonet/ejs-loader",
+  "homepage": "https://github.com/valerymercury/ejs-loader",
   "dependencies": {
     "lodash": "^3.6.0",
     "loader-utils": "^0.2.7"
